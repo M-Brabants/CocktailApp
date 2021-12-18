@@ -8,6 +8,7 @@ on:
 
 jobs:
   build:
+    environment: CocktailApp.sln
 
     runs-on: ubuntu-latest
 
